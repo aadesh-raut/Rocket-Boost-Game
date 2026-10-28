@@ -1,0 +1,43 @@
+
+# Unity generated files and folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+
+# Unity cache and generated data
+MemoryCaptures/
+Recordings/
+.vsconfig
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+
+# macOS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows generated files
+Thumbs.db
+Desktop.ini
+
+# Crash reports
+sysinfo.txt
+
+# Logs
+*.log
